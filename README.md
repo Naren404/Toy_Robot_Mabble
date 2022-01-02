@@ -36,7 +36,7 @@ PLACE X,Y,F MOVE LEFT RIGHT REPORT
 - Input is from standard input as argument to file as mentioned in "how to run" section.
 
 ### How to run this application?
-ruby command.rb <command as arguments>
+ruby command.rb "command as arguments"
 
 ruby command.rb PLACE 1,2,NORTH MOVE LEFT REPORT
 
